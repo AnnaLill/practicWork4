@@ -1,0 +1,5 @@
+fun main() {  
+
+    println(7 * 5* 3) 
+
+} 
